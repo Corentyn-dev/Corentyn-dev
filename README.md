@@ -10,12 +10,18 @@ I have notion in terms of management, I'm all in on the **front**, and I'm confo
 
 ###  Concerning the front : 
 
-I've already coded with the languages below : 
+I'm confortable with the languages below : 
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ### Concerning the back : 
+
+I've already code with the languages below : 
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=java,bash,c)](https://skillicons.dev)
 
 ### Concerning softwares and engineering : 
