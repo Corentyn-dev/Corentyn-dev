@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Corentyn 👋</h1>
-*Hello*
 <h3 align="center">A student in IT 💻</h3>
 <h5 align="center">A designer and a web developper </h5>
+> To be curious and ambitious, not to be busy...
 
 <br>
 
