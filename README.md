@@ -28,6 +28,7 @@
   <a href="https://www.mongodb.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="50" /></a>
   <a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="React" height="50" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="50" /></a>
+  <a href="https://www.php.net/docs.php" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=php" alt="PHP" height="50" /></a>
 
 ## 📊Github Stats:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Corentyn-dev&show_icons=true&theme=radical"/>
