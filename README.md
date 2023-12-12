@@ -1,40 +1,72 @@
-<h1 align="center">Hello, I'm Corentyn 👋</h1>
-<h3 align="center">A designer and a web developper</h3>
+# Hi there, I'm Corentyn! 👋
 
-<div align="center">
+I'm a passionate designer and web developer based in [Your Location]. With a strong foundation in both design principles and coding, I strive to create seamless and visually appealing digital experiences.
 
-## My skills : 
-  
-###  Concerning the front : 
+## 🚀 Skills
 
-  <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a> 
-  <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50" /></a>
+### Front-end
 
-### Concerning the back : 
+- HTML5 🌐
+- CSS3 🎨
+- JavaScript (ES6+) 💻
+- React ⚛️
 
-  <a href="https://www.java.com/fr/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="Java" height="50" /></a> 
+### Back-end
 
-### Concerning softwares and engineering : 
+- Java ☕
+- PHP 🐘
 
-  <a href="https://figma.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" /></a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="50" /></a>
-  <a href="https://github.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="Github" height="50" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" height="50" /></a>
-  <a href="https://www.jetbrains.com/fr-fr/idea/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=idea" alt="IntelliJ" height="50" /></a>
+### Tools & Technologies
 
-## I'm currently working on : 
+- Figma 🖌️
+- Visual Studio Code 💻
+- GitHub 🐙
+- Visual Studio 🖥️
+- IntelliJ IDEA ☕
 
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50" /></a>
-  <a href="https://www.mongodb.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="50" /></a>
-  <a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="React" height="50" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="50" /></a>
-  <a href="https://www.php.net/docs.php" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=php" alt="PHP" height="50" /></a>
+## 🛠️ Currently Working On
 
-## 📊Github Stats:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Corentyn-dev&show_icons=true&theme=radical"/>
+I'm currently diving into the world of:
+
+- JavaScript, exploring its latest features and frameworks like React ⚛️
+- MongoDB for database management 📊
+- TypeScript for enhanced code scalability 💼
+- PHP for server-side scripting 🐘
+
+## 📊 GitHub Stats
+
+![Corentyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Corentyn-dev&show_icons=true&theme=radical)
+
+## 🌐 Connect with Me
+
+Let's connect and discuss design, development, or anything in between! You can find me on:
+
+- [LinkedIn](Your LinkedIn Profile Link) 💼
+- [Twitter](Your Twitter Profile Link) 🐦
+
+## 📝 Latest Blog Posts
+
+- [Blog Post Title 1](Link to Blog Post 1) 📖
+- [Blog Post Title 2](Link to Blog Post 2) 📖
+
+## 🛠️ Projects
+
+### Project 1: [Project Name 1](Link to Project 1) 🚀
+
+Brief description of the project.
+
+### Project 2: [Project Name 2](Link to Project 2) 🚀
+
+Brief description of the project.
+
+## 🏆 Achievements
+
+- Mention any awards, certifications, or significant accomplishments. 🏆
+
+## 📚 Education
+
+- Mention your educational background. 🎓
 
 <h4>
-  <a>©Corentyn-dev</a>
+  <a href="#">© Corentyn-dev</a>
 </h4>
-
-</div>
