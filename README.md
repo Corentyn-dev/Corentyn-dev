@@ -61,8 +61,8 @@ Brief description of the project.
 
 ## 🏆 Achievements
 
-- Mention any awards, certifications, or significant accomplishments. 🏆
-- <a href="https://app.daily.dev/corentynhayer"><img src="https://api.daily.dev/devcards/v2/vzY2fCHyONlsS3BHjJZKR.png?type=default&r=ow9" width="356" alt="corentyn hayer's Dev Card"/></a>
+- Mention any awards, certifications, or significant accomplishments. 🏆<br>
+  <a href="https://app.daily.dev/corentynhayer"><img src="https://api.daily.dev/devcards/v2/vzY2fCHyONlsS3BHjJZKR.png?type=default&r=ow9" width="356" alt="corentyn hayer's Dev Card"/></a>
 
 ## 📚 Education
 
